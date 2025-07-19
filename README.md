@@ -1,1 +1,2 @@
 # Metal-bending-machine-classic-control
+This project is a classic control circuit for a metal bending machine featuring both manual and automatic modes, implemented using a selector switch, limit switches, contactors, and other key components. The system includes both control and power circuits, with forward and reverse motion functionality. This task demonstrates how traditional control logic can be used to manage real industrial operations without PLCs, offering a hands-on understanding of automation using relays, switches, and electrical interlocking.
